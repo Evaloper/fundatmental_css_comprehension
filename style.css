@@ -1,3 +1,5 @@
+/* General page styles */
+
 body {
   margin: 0;
 }
@@ -9,7 +11,7 @@ html {
 }
 
   
-  /* Styling for the card container */
+  /* Styling for the card container, which is the main container */
 
   
   
@@ -50,7 +52,7 @@ html {
   float: right;
 }
 
-/* Styling for the header in the card container */
+/* Styling for group tags and classes in the card container */
 
 .card header,
 .card footer {
